@@ -1,6 +1,6 @@
 ### Hi, I'm Nick de Kok 👋
 
-I'm a full-stack developer and aspiring agentic engineer working across two areas: designing complete web applications from backend to frontend, and building secure, AI-agent-driven developer tooling. I'm especially interested in using agentic engineering to turn ideas and inspiration into a working and finished application.
+I'm a full-stack developer and aspiring agentic engineer working across two areas: designing complete web applications from backend to frontend, and building secure, AI-agent-driven developer tooling. I'm especially interested in using agentic engineering to turn ideas and inspiration into a working and finished product.
 
 **What I build**
 * Secure, sandboxed environments with guardrails that let AI coding agents work independently
