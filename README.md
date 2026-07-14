@@ -1,12 +1,12 @@
 ### Hi, I'm Nick de Kok 👋
 
-I'm a full-stack developer working across two areas: building secure, AI-agent-driven developer tooling, and designing full-stack web applications from backend to frontend. Alongside that, I like picking up new frameworks and languages through smaller hobby projects.
+I’m a full-stack developer and aspiring agentic engineer working across two areas: designing complete web applications from backend to frontend, and building secure, AI-agent-driven developer tooling. I’m especially interested in using agentic engineering to turn ideas and inspiration into a working and finished application.
 
 **What I build**
-- Secure, sandboxed environments that let AI coding agents work independently without ever touching host credentials
-- Reusable automation and "skills" that travel across projects and agents
-- Full-stack applications shipped end-to-end, with CI/CD and real deployments
-- Small side projects to explore new tools and ideas
+* Secure, sandboxed environments with guardrails that let AI coding agents work independently
+* Reusable automations and agent skills that can be applied across projects, tools, and workflows
+* Full-stack applications taken from initial idea to deployed product, including frontend, backend, CI/CD, and infrastructure
+* Agentic development workflows that turn ideas and inspiration into working software
 
 **Tech stack**
 ![Skills](https://skillicons.dev/icons?i=python,ts,nextjs,java,spring,kotlin,bash,js,docker,github,supabase,postgres,vercel,idea,webstorm,vscode)
