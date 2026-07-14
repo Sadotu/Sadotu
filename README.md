@@ -9,6 +9,7 @@ I'm a full-stack developer working across two areas: building secure, AI-agent-d
 - Small side projects to explore new tools and ideas
 
 **Tech stack**
-![Skills](https://skillicons.dev/icons?i=python,ts,nextjs,java,spring,kotlin,bash,js,docker,github,supabase)
+![Skills](https://skillicons.dev/icons?i=python,ts,nextjs,java,spring,kotlin,bash,js,docker,github,supabase,postgres,vercel,idea,webstorm,vscode)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claudecode&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 🔗 Full showcase: [sadotu.github.io](https://sadotu.github.io)
